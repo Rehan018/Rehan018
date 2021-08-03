@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 
 Connect with me:
+[Instagram](https://www.instagram.com/)
+[Linkedin](https://www.linkedin.com/in/rehan-alam-bb5240168/)
+[hackerrank](https://www.hackerrank.com/rehanalam5090)
+

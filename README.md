@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 🔭 I’m currently working on web developing projects
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning BlockChain Development Technology
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with geeksforgeeks.org
 - 💬 Ask me about web devlopment,Core Java,DSA,OS,Oops

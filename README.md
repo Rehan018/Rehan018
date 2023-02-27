@@ -1,7 +1,8 @@
-### Hi I'm Rehan 👋
+👋Hey there! I'm Rehan Alam
 
 <!--
 **Rehan018/Rehan018-->
+*👨🏻‍💻 About Me*
 
 Here are some ideas to get you started:
 

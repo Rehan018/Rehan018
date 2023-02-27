@@ -6,14 +6,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 🔭 I’m currently working on web developing projects
-- 🌱 I’m currently learning BlockChain Development Technology
-- 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with geeksforgeeks.org
-- 💬 Ask me about web devlopment,Core Java,DSA,OS,Oops
-- 📫 How to reach me: gmail|Telegram|Linkden
-- 😄 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: 🍔 Sleep 😴 Learn 💻 Gym 🏋️ Repeat 🔁
+💡  I'm a knowledge seeker & I love to learn explore new technologies.
+💻  currently I'm trying to improve my self right now.
+📚  In my free time, I read books and listen to podcasts etc.
+✉️  You can shoot me an email at rehanalam5090@gmail.com! I'll try to respond as soon as I can.
+📄  Please have a look at my latest Résumé for more details about me. I'm open to feedback and suggestions!
 
 
 

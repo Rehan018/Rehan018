@@ -23,3 +23,4 @@ Connect with me:
 [Linkedin](https://www.linkedin.com/in/rehan-alam-bb5240168/)
 [hackerrank](https://www.hackerrank.com/rehanalam5090)
 
+[certificate.pdf](https://github.com/Rehan018/Rehan018/files/11258638/certificate.pdf)

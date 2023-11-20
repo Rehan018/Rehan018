@@ -83,5 +83,5 @@
 - [GitHub](https://github.com/Rehan018/Rehan018)
 - [LinkedIn](https://www.linkedin.com/in/rehan018/)
 - [Geeksforgeeks](https://auth.geeksforgeeks.org/user/rehanalam5090)
-- -[Hackerrank](ckerrank.com/rehanalam5090?hr_r=1)
+- [Hackerrank](ckerrank.com/rehanalam5090?hr_r=1)
 - [Portfolio](https://rehanalam5090.github.io)

@@ -43,4 +43,5 @@
  ![Mongoose Icon](https://img.icons8.com/color/48/000000/mongodb.png)
  ![API Icon](https://img.icons8.com/ios-filled/50/000000/api-settings.png)
  ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
- ![GitHub Icon](https://img.icons8.com/ios-filled/50/000000/github.png)  👨‍💻✨
+ ![GitHub Icon](https://img.icons8.com/ios-filled/50/000000/github.png) 
+ 

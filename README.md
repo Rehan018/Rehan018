@@ -26,31 +26,23 @@
 
 
 
-### Linguagens de Programação:
+### Technical Skill's:
  ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
  ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
  ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
  ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-
-### Ferramentas e Ambientes de Desenvolvimento:
  ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
  ![IntelliJ Icon](https://img.icons8.com/color/48/000000/intellij-idea.png)
  ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
  ![Sublime Text Icon](https://img.icons8.com/color/48/000000/sublime-text.png)
  ![AWS Icon](https://img.icons8.com/color/48/000000/amazon-web-services.png)
  ![Postman Icon](https://img.icons8.com/color/48/000000/api-settings.png)
-
-### Bancos de Dados:
  ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
  ![SQL Icon](https://img.icons8.com/ios-filled/50/000000/sql.png)
-
-### Frameworks/Libraries:
  ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png)
  ![ExpressJS Icon](https://img.icons8.com/color/48/000000/express.png)
  ![Sequelize Icon](https://img.icons8.com/color/48/000000/database.png)
  ![Mongoose Icon](https://img.icons8.com/color/48/000000/mongodb.png)
- ![JWT Icon](https://img.icons8.com/color/48/000000/json-web-token.png)
- ![Socket.io Icon](https://img.icons8.com/ios-filled/50/000000/socket-io.png)
  ![API Icon](https://img.icons8.com/ios-filled/50/000000/api-settings.png)
  ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
  ![GitHub Icon](https://img.icons8.com/ios-filled/50/000000/github.png)  👨‍💻✨

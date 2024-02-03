@@ -1,8 +1,8 @@
-# Olá! Me chamo Rehan Alam 👋
+# Hello! My name is Rehan Alam 👋
 
-- 💼 Atualmente em busca de oportunidades como desenvolvedor front-end
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas
-- 👨‍💻 Focado em aprender e aprimorar habilidades em React
+- 💼 Currently seeking opportunities as a Back-end developer
+- 📚 Studying Analysis and Systems Development
+- 👨‍💻 Focused on learning and improving skills in React
 - 🏀❤️‍🔥📽️🎮
 
 <div>
@@ -20,13 +20,11 @@
 <div>
   <br>
   <a href="https://www.instagram.com/rehan018/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rehanalam5090@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:rehanalam5090@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rehan018/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-
-
-### Technical Skill's:
+### Technical Skills:
  ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
  ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
  ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)

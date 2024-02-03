@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/rehan018/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-Entendi! Aqui estão os ícones correspondentes para suas habilidades técnicas:
+
 
 ### Linguagens de Programação:
  ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
@@ -33,26 +33,24 @@ Entendi! Aqui estão os ícones correspondentes para suas habilidades técnicas:
  ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 
 ### Ferramentas e Ambientes de Desenvolvimento:
-- VS Code: ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-- IntelliJ IDE: ![IntelliJ Icon](https://img.icons8.com/color/48/000000/intellij-idea.png)
-- MySQL Workbench: ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
-- Sublime Text 3: ![Sublime Text Icon](https://img.icons8.com/color/48/000000/sublime-text.png)
-- AWS: ![AWS Icon](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-- Postman: ![Postman Icon](https://img.icons8.com/color/48/000000/api-settings.png)
+ ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+ ![IntelliJ Icon](https://img.icons8.com/color/48/000000/intellij-idea.png)
+ ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
+ ![Sublime Text Icon](https://img.icons8.com/color/48/000000/sublime-text.png)
+ ![AWS Icon](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+ ![Postman Icon](https://img.icons8.com/color/48/000000/api-settings.png)
 
 ### Bancos de Dados:
-- MongoDB: ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
-- SQL: ![SQL Icon](https://img.icons8.com/ios-filled/50/000000/sql.png)
+ ![MongoDB Icon](https://img.icons8.com/color/48/000000/mongodb.png)
+ ![SQL Icon](https://img.icons8.com/ios-filled/50/000000/sql.png)
 
 ### Frameworks/Libraries:
-- NodeJS: ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png)
-- ExpressJS: ![ExpressJS Icon](https://img.icons8.com/color/48/000000/express.png)
-- Sequelize: ![Sequelize Icon](https://img.icons8.com/color/48/000000/database.png)
-- Mongoose: ![Mongoose Icon](https://img.icons8.com/color/48/000000/mongodb.png)
-- JWT: ![JWT Icon](https://img.icons8.com/color/48/000000/json-web-token.png)
-- Socket.io: ![Socket.io Icon](https://img.icons8.com/ios-filled/50/000000/socket-io.png)
-- Restful API: ![API Icon](https://img.icons8.com/ios-filled/50/000000/api-settings.png)
-- Git: ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
-- Github: ![GitHub Icon](https://img.icons8.com/ios-filled/50/000000/github.png)
-
-Espero que esses ícones deem um toque visual interessante ao seu perfil! Caso tenha mais alguma solicitação ou ajuste, é só me avisar. 👨‍💻✨
+ ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png)
+ ![ExpressJS Icon](https://img.icons8.com/color/48/000000/express.png)
+ ![Sequelize Icon](https://img.icons8.com/color/48/000000/database.png)
+ ![Mongoose Icon](https://img.icons8.com/color/48/000000/mongodb.png)
+ ![JWT Icon](https://img.icons8.com/color/48/000000/json-web-token.png)
+ ![Socket.io Icon](https://img.icons8.com/ios-filled/50/000000/socket-io.png)
+ ![API Icon](https://img.icons8.com/ios-filled/50/000000/api-settings.png)
+ ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
+ ![GitHub Icon](https://img.icons8.com/ios-filled/50/000000/github.png)  👨‍💻✨

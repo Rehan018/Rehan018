@@ -27,10 +27,7 @@
 Entendi! Aqui estão os ícones correspondentes para suas habilidades técnicas:
 
 ### Linguagens de Programação:
-- Java: ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-- HTML/CSS: ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
-- JavaScript: ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
-- C++: ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+-  ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) [HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png [JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) [C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 
 ### Ferramentas e Ambientes de Desenvolvimento:
 - VS Code: ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)

@@ -133,6 +133,10 @@
   <br/>
 </a>
 
+
+![Rhan Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
 <!-- Achievements Section -->
 ## Achievements
 ![GFG](https://img.shields.io/badge/GFG-Top%202%20Global%20Rank-4CAF50?style=for-the-badge&logo=geeksforgeeks&logoColor=white)

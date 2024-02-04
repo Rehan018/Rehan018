@@ -30,7 +30,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Rehan+Alam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>India</b> 」
     <br>
     <br>
   </samp>
@@ -66,8 +66,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 📧 &emsp; Reach me anytime: rehanalam5090@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything 
 
 </p>
 

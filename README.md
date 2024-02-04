@@ -3,36 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="animation: bounce 2s infinite;">
 </h2>
 
-<style>
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-20px);
-    }
-    60% {
-      transform: translateY(-10px);
-    }
-  }
-</style>
 
-<p align="center">
-  <!-- ... other shields ... -->
-  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" style="animation: glow 2s infinite;">
-  <!-- Repeat the above line for each shield you want to animate -->
-</p>
-
-<style>
-  @keyframes glow {
-    0%, 100% {
-      filter: drop-shadow(0 0 5px #F0DB4F);
-    }
-    50% {
-      filter: drop-shadow(0 0 20px #F0DB4F);
-    }
-  }
-</style>
 
 
 <p align="center">

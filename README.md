@@ -28,6 +28,7 @@
  ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
  ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
  ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
+ ![React Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
  ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
  ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
  ![IntelliJ Icon](https://img.icons8.com/color/48/000000/intellij-idea.png)

@@ -121,19 +121,46 @@
 ## Coding Profiles
 
 <p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/rehan018" target="_blank">
-    <img src="https://cardivo.vercel.app/api/gfg?id=rehan018&color=black" alt="GFG Profile Card">
-  </a>
-  <a href="https://www.hackerrank.com/rehanalam5090?hr_r=1" target="_blank">
-    <img src="https://cardivo.vercel.app/api/hackerrank?id=rehan018&color=black" alt="HackerRank Profile Card">
-  </a>
-  <a href="https://leetcode.com/rehanalam5090/" target="_blank">
-    <img src="https://cardivo.vercel.app/api/leetcode?id=rehan018&color=black" alt="LeetCode Profile Card">
-  </a>
-  <a href="https://www.hackerearth.com/@rehanalam5090" target="_blank">
-    <img src="https://cardivo.vercel.app/api/hackerearth?id=rehan018&color=black" alt="HackerEarth Profile Card">
-  </a>
+  <div class="profile-card">
+    <a href="https://auth.geeksforgeeks.org/user/rehan018" target="_blank">
+      <img src="https://cardivo.vercel.app/api/gfg?id=rehan018&color=black" alt="GFG Profile Card">
+    </a>
+  </div>
+  
+  <div class="profile-card">
+    <a href="https://www.hackerrank.com/rehanalam5090?hr_r=1" target="_blank">
+      <img src="https://cardivo.vercel.app/api/hackerrank?id=rehan018&color=black" alt="HackerRank Profile Card">
+    </a>
+  </div>
+  
+  <div class="profile-card">
+    <a href="https://leetcode.com/rehanalam5090/" target="_blank">
+      <img src="https://cardivo.vercel.app/api/leetcode?id=rehan018&color=black" alt="LeetCode Profile Card">
+    </a>
+  </div>
+  
+  <div class="profile-card">
+    <a href="https://www.hackerearth.com/@rehanalam5090" target="_blank">
+      <img src="https://cardivo.vercel.app/api/hackerearth?id=rehan018&color=black" alt="HackerEarth Profile Card">
+    </a>
+  </div>
 </p>
+
+<style>
+  .profile-card {
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f8f8f8;
+  }
+
+  .profile-card img {
+    width: 100%;
+    border-radius: 5px;
+  }
+</style>
 
 
 ![Rhan Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rehan018&custom_title=Rehan%20Alam%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)

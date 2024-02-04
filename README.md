@@ -16,7 +16,6 @@
         </samp>
 </h3>
 
-
 <p align="center">
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Rehan018" />
@@ -33,7 +32,6 @@
 </p>
 <br />
 
-
 <!--x axis divider-->
 <img src="/images/horizontal-divider-gradient.gif">
 
@@ -44,22 +42,23 @@
 </picture>
 
 <!-- About Section -->
- # About me
+
+# About me
+
 ```js
 "use creativity";
-import { Person } from 'India';
+import { Person } from "India";
 
 new Person({
-    name   : 'Rehan Alam',
-    title  : 'Full Stack Developer',
-    email  : 'rehanalam5090@gmail.com',
+  name: "Rehan Alam",
+  title: "Full Stack Developer",
+  email: "rehanalam5090@gmail.com",
 }).sayHello();
 ```
 
 <br/>
 <br/>
 <br/>
-
 
 <!--x axis divider-->
 <img src="/images/horizontal-divider-gradient.gif">
@@ -104,9 +103,6 @@ new Person({
     	</a>
 </div>
 
-
-
-
 <p align="left">
   <a href="https://github.com/Rehan018?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -133,17 +129,14 @@ new Person({
   <br/>
 </a>
 
-
-
-
 ![Rhan Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rehan018&custom_title=Rehan%20Alam%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
 
 <!--x axis divider-->
 
 <!-- Achievements Section -->
+
 ## Achievements
+
 ![GFG](https://img.shields.io/badge/GFG-Top%202%20Global%20Rank-4CAF50?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![Codekaze](https://img.shields.io/badge/Codekaze-Rank%2020%20Global%20Rank-2196F3?style=for-the-badge&logo=codeforces&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-Rank%205%20Global%20Rank-0046ad?style=for-the-badge&logo=servicenow&logoColor=white)
@@ -151,7 +144,9 @@ new Person({
 ![ProjectEuler+](https://img.shields.io/badge/ProjectEuler%2B-Top%201K%20Global%20Rank-1E90FF?style=for-the-badge&logo=projecteuler&logoColor=white)
 
 <!-- Trainings Section -->
+
 ## Trainings
+
 ![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Backend%20%7C%20Frontend%20%7C%20Java%20%7C%20Data%20Structure-000000?style=for-the-badge&logo=codingninjas&logoColor=white)
 
 </div>

@@ -133,8 +133,7 @@ new Person({
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/rehan018/Rehan018/output/github-snake.svg)
-
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
 <!-- Achievements Section -->
 

@@ -134,7 +134,7 @@
 
 
 <!--x axis divider-->
-<img src="/images/horizontal-divider-gradient.gif">
+
 <!-- Achievements Section -->
 ## Achievements
 ![GFG](https://img.shields.io/badge/GFG-Top%202%20Global%20Rank-4CAF50?style=for-the-badge&logo=geeksforgeeks&logoColor=white)

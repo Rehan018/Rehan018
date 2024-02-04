@@ -105,24 +105,7 @@
 [![News Aggregator](https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=node-news-aggregator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rehan018/node-news-aggregator.git)
 [![Social Media Rest API](https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=coding-ninja-Social-Media-API&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rehan018/coding-ninja-Social-Media-API.git)
 
-### E-commerce API
-- Developed using Node.js, Express.js, MongoDB, Mongoose, Stripe API.
-- Enables users to buy and sell physical goods, services, and digital products over the internet.
-- Features user authentication, secure password hashing, and JWT for authentication.
-- Admin capabilities include retrieving user lists, statistics, updating user details, and deleting users.
 
-### News Aggregator
-- Built with Node.js, Express.js, MongoDB, Mongoose, JWT, and NewsAPI.
-- Aims to develop a RESTful API for a news aggregator system.
-- Gathers news articles from various sources and presents them in a personalized feed for users.
-- Implements secure user registration, login, password hashing, and JWT for secure communication.
-- Integrates with NewsAPI to fetch and process articles, utilizing NLP to extract keywords.
-
-### Social Media Rest API
-- Developed using Node.js, Express.js, MongoDB, Mongoose, JWT, Bcrypt, and Multer.
-- Implements a RESTful API for a social media application with user authentication and post management.
-- Enables secure user registration and login with bcrypt for password hashing and JWT for authentication.
-- Supports user profile management, post operations (creation, update, deletion), liking/disliking posts, following/unfollowing users, file uploads for post media, and commenting on posts.
 
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>

@@ -117,7 +117,27 @@
 </a>
 
 
+<!-- Coding Profiles Section -->
+## Coding Profiles
+
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/rehan018" target="_blank">
+    <img src="https://cardivo.vercel.app/api/gfg?id=rehan018&color=black" alt="GFG Profile Card">
+  </a>
+  <a href="https://www.hackerrank.com/rehan018" target="_blank">
+    <img src="https://cardivo.vercel.app/api/hackerrank?id=rehan018&color=black" alt="HackerRank Profile Card">
+  </a>
+  <a href="https://leetcode.com/rehan018/" target="_blank">
+    <img src="https://cardivo.vercel.app/api/leetcode?id=rehan018&color=black" alt="LeetCode Profile Card">
+  </a>
+  <a href="https://www.hackerearth.com/@rehan018" target="_blank">
+    <img src="https://cardivo.vercel.app/api/hackerearth?id=rehan018&color=black" alt="HackerEarth Profile Card">
+  </a>
+</p>
+
+
 ![Rhan Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rehan018&custom_title=Rehan%20Alam%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 
 <!-- Achievements Section -->

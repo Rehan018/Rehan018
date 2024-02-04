@@ -124,13 +124,13 @@
   <a href="https://auth.geeksforgeeks.org/user/rehan018" target="_blank">
     <img src="https://cardivo.vercel.app/api/gfg?id=rehan018&color=black" alt="GFG Profile Card">
   </a>
-  <a href="https://www.hackerrank.com/rehan018" target="_blank">
+  <a href="https://www.hackerrank.com/rehanalam5090?hr_r=1" target="_blank">
     <img src="https://cardivo.vercel.app/api/hackerrank?id=rehan018&color=black" alt="HackerRank Profile Card">
   </a>
-  <a href="https://leetcode.com/rehan018/" target="_blank">
+  <a href="https://leetcode.com/rehanalam5090/" target="_blank">
     <img src="https://cardivo.vercel.app/api/leetcode?id=rehan018&color=black" alt="LeetCode Profile Card">
   </a>
-  <a href="https://www.hackerearth.com/@rehan018" target="_blank">
+  <a href="https://www.hackerearth.com/@rehanalam5090" target="_blank">
     <img src="https://cardivo.vercel.app/api/hackerearth?id=rehan018&color=black" alt="HackerEarth Profile Card">
   </a>
 </p>

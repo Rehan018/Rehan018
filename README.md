@@ -12,8 +12,8 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=Rehan018">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Rehan018&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=rehan018">
+  <img align="right" src="https://komarev.com/ghpvc/?username=rehan018&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -37,22 +37,22 @@
 </p>
 
 <p align="center">
- <a href="https://Rehan018.com" target="blank">
+ <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Rehan018" />
  </a>
- <a href="https://linkedin.com/in/Rehan018" target="_blank">
+ <a href="https://linkedin.com/in/rehan018" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rehan018"/>
  </a>
- <!-- <a href="https://dev.to/Rehan018" target="_blank">
+ <!-- <a href="https://dev.to/rehan018" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Rehan018" />
  </a> -->
- <a href="https://twitter.com/_Rehan018" target="_blank">
+ <a href="https://twitter.com/_rehan018" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_Rehan018" target="_blank">
+ <a href="https://instagram.com/_rehan018" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Rehan018" />
  </a> 
- <a href="https://facebook.com/Rehan018.dev" target="_blank">
+ <a href="https://facebook.com/rehan018" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Rehan018"  />
   </a> 
 </p>
@@ -117,18 +117,18 @@
 
 <p align="center">
   <a href="https://github.com/Rehan018">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehan018&theme=radical&border=7F3FBF&background=0D1117" alt="Rehan GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan018&theme=radical&border=7F3FBF&background=0D1117" alt="Rehan GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Rehan018">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rehan018&theme=radical" alt="Rehan GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehan018&theme=radical" alt="Rehan GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Rehan"><img alt="Rehan Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rehan018&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Rehan018"><img alt="Rehan Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rehan018&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Rehan018"><img alt="Rehan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rehan018&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>

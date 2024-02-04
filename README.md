@@ -131,7 +131,7 @@ new Person({
 
 ![Rhan Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rehan018&custom_title=Rehan%20Alam%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<img src="/images/horizontal-divider-gradient.gif">
 
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 

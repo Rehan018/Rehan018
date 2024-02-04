@@ -17,6 +17,22 @@
   }
 </style>
 
+<p align="center">
+  <!-- ... other shields ... -->
+  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" style="animation: glow 2s infinite;">
+  <!-- Repeat the above line for each shield you want to animate -->
+</p>
+
+<style>
+  @keyframes glow {
+    0%, 100% {
+      filter: drop-shadow(0 0 5px #F0DB4F);
+    }
+    50% {
+      filter: drop-shadow(0 0 20px #F0DB4F);
+    }
+  }
+</style>
 
 
 <p align="center">

@@ -1,33 +1,34 @@
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to Rehan Alam World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
 
 <!--
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Rehan018"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
--->
+ -->
 
 <a href="https://komarev.com/ghpvc/?username=alsiam">
   <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
+
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://rehan.com">Rehan Alam</a></b>
         </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Rehan+Alam">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Bangladesh</b> 」
     <br>
@@ -61,10 +62,10 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://media.giphy.com/media/cITpYze1Uv5wTRQhH1/giphy.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy doing programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love writing code and learning new features<br/><br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
@@ -131,4 +132,18 @@
   <br/>
 </a>
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<!-- Achievements Section -->
+## Achievements
+![GFG](https://img.shields.io/badge/GFG-Top%202%20Global%20Rank-4CAF50?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![Codekaze](https://img.shields.io/badge/Codekaze-Rank%2020%20Global%20Rank-2196F3?style=for-the-badge&logo=codeforces&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Rank%205%20Global%20Rank-0046ad?style=for-the-badge&logo=servicenow&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-Top%201K%20Global%20Rank-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![ProjectEuler+](https://img.shields.io/badge/ProjectEuler%2B-Top%201K%20Global%20Rank-1E90FF?style=for-the-badge&logo=projecteuler&logoColor=white)
+
+<!-- Trainings Section -->
+## Trainings
+![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-Backend%20%7C%20Frontend%20%7C%20Java%20%7C%20Data%20Structure-000000?style=for-the-badge&logo=codingninjas&logoColor=white)
+
+</div>
+
+Hope this helps!

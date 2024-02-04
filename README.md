@@ -108,7 +108,7 @@ new Person({
 </p>
 
 <br/>
-<hr/>
+<img src="/images/horizontal-divider-gradient.gif">
 <br/>
 
 <p align="center">

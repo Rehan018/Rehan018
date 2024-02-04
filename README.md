@@ -91,8 +91,6 @@
 [![News Aggregator](https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=node-news-aggregator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rehan018/node-news-aggregator.git)
 [![Social Media Rest API](https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=coding-ninja-Social-Media-API&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rehan018/coding-ninja-Social-Media-API.git)
 
-<!--x axis divider-->
-<img src="/images/horizontal-divider-gradient.gif">
 
 <p align="left">
   <a href="https://github.com/Rehan018?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -101,22 +99,19 @@
 <br/>
 <hr/>
 <br/>
-<!--x axis divider-->
-<img src="/images/horizontal-divider-gradient.gif">
+
 <p align="center">
   <a href="https://github.com/Rehan018">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehan018&theme=radical&border=7F3FBF&background=0D1117" alt="Rehan GitHub streak"/>
   </a>
 </p>
-<!--x axis divider-->
-<img src="/images/horizontal-divider-gradient.gif">
+
 <p align="center">
   <a href="https://github.com/Rehan018">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rehan018&theme=radical" alt="Rehan GitHub Contribution"/>
   </a>
 </p>
-<!--x axis divider-->
-<img src="/images/horizontal-divider-gradient.gif">
+
 <a> 
     <a href="https://github.com/rehan018"><img alt="Rehan Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rehan018&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/rehan018"><img alt="Rehan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rehan018&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -124,8 +119,7 @@
 </a>
 
 
-<!--x axis divider-->
-<img src="/images/horizontal-divider-gradient.gif">
+
 
 ![Rhan Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rehan018&custom_title=Rehan%20Alam%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 

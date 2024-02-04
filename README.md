@@ -86,10 +86,34 @@
 
 <br/>
 
-## My Projects -
-[![E-commerce API](https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=e-commerce-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rehan018/e-commerce-api)
-[![News Aggregator](https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=node-news-aggregator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rehan018/node-news-aggregator.git)
-[![Social Media Rest API](https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=coding-ninja-Social-Media-API&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rehan018/coding-ninja-Social-Media-API.git)
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">⭐My Favorite Repo⭐</h3>
+
+<div>
+  <p align="center">
+	<a href="https://github.com/Deri-Kurniawan/Deri-Kurniawan.github.io">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=Deri-Kurniawan.github.io&theme=transparent" alt="GitHub Stats" />
+    	</a>
+	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/derizer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	</a>
+</div>
+
+
 
 
 <p align="left">

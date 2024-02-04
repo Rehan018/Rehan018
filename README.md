@@ -60,8 +60,7 @@
 <br/>
 <br/>
 
-<!--x axis divider-->
-<img src="/images/horizontal-divider-gradient.gif">
+
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -86,8 +85,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-<!--x axis divider-->
-<img src="/images/horizontal-divider-gradient.gif">
+
 ## My Projects -
 [![E-commerce API](https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=e-commerce-api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rehan018/e-commerce-api)
 [![News Aggregator](https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=node-news-aggregator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rehan018/node-news-aggregator.git)

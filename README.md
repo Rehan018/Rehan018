@@ -32,7 +32,14 @@
 <br />
 
 
+<!--x axis divider-->
+<img src="/images/horizontal-divider-gradient.gif">
 
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/images/developer.webp" align="right" width="350">
+</a>
+</picture>
 
 <!-- About Section -->
  # About me

@@ -77,7 +77,23 @@
   <img src="https://github.com/Rehan018/Rehan018/blob/main/github-metrics.svg" alt="GitHub Metrics">
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <samp>Connect with me and explore more projects!</samp>
-</p>
+<!-- Open Source Contributions -->
+<h3 align="center">
+  Open Source Contributions
+</h3>
+
+<div align="center">
+  <a href="https://github.com/Rehan018/itasks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="iTasks Repository">
+  </a>
+  <a href="https://github.com/Rehan018/urfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="urFolio Repository">
+  </a>
+  <a href="https://github.com/Rehan018/web-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Web Projects Repository">
+  </a>
+  <a href="https://github.com/Rehan018/alsiam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehan018&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Al Siam Readme Repository">
+  </a>
+</div>
+

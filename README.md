@@ -26,7 +26,7 @@
  <a href="https://twitter.com/_rehan018" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://react-portfolio-steel-eight.vercel.app/" target="_blank">
+ <a href="https://react-portfolio-51g6.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Rehan018" />
  </a>
 </p>

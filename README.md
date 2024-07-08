@@ -106,7 +106,7 @@ new Person({
 
 <img src="/images/horizontal-divider-gradient.gif">
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/output/github-contribution-grid-snake.svg)
+![Commit Snake History SVG](https://raw.githubusercontent.com/Rehan018/Rehan018/output/github-contribution-grid-snake.svg)
 
 <!--(https://raw.githubusercontent.com/Rehan018/Rehan018/output/github-snake.svg)-->
 

@@ -106,9 +106,9 @@ new Person({
 
 <img src="/images/horizontal-divider-gradient.gif">
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/Rehan018/Rehan018/output/github-contribution-grid-snake.svg)
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
-<!--(https://raw.githubusercontent.com/Rehan018/Rehan018/output/github-snake.svg)-->
+<!--(https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)-->
 
 <!-- Achievements Section -->
 

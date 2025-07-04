@@ -1,4 +1,4 @@
-[Live](https://6867af169dbccc8b66f3a459--melodic-custard-45f5c7.netlify.app/)
+[resume](https://6867af169dbccc8b66f3a459--melodic-custard-45f5c7.netlify.app/)
 
 <h2 align="center">
   Welcome to Rehan Alam's World!

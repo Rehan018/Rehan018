@@ -1,3 +1,5 @@
+[Live](https://6867af169dbccc8b66f3a459--melodic-custard-45f5c7.netlify.app/)
+
 <h2 align="center">
   Welcome to Rehan Alam's World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align: middle; animation: wave 1.5s infinite;">
@@ -7,7 +9,7 @@
   <a href="https://github.com/Rehan018">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&height=60&lines=GenAI+Engineer;LLM+Specialist;AI+Prompt+Engineer;ML+Researcher;Always+exploring+new+AI+frontiers" alt="Typing SVG" />
   </a>
-  [Live](https://6867af169dbccc8b66f3a459--melodic-custard-45f5c7.netlify.app/)
+  
 </p>
 
 <div align="center">

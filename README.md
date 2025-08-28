@@ -289,9 +289,28 @@
 
 <!-- Coding Activity -->
 <div align="center">
-  <h2>⚡ Real-time Coding Activity</h2>
+  <h2>⚡ Weekly Coding Activity</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rehan018&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&custom_title=This%20Week%20I%20Spent%20My%20Time%20On" alt="WakaTime Stats" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-35%25-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 35%" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JavaScript-25%25-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript 25%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/TypeScript-20%25-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 20%" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Jupyter-20%25-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter 20%" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=⏰+This+Week:+45+hrs+coding;🧠+Focus:+AI+Model+Development;🔥+Streak:+12+days+active;💡+Projects:+3+active+repos" alt="Coding Activity" />
 </div>
 
 <!-- Tech Stack Proficiency -->
@@ -458,37 +477,37 @@
 
 <!-- Real-time Metrics Dashboard -->
 <div align="center">
-  <h2>📈 Live Development Metrics</h2>
+  <h2>📈 Development Activity Dashboard</h2>
   
   <table>
     <tr>
-      <th>Metric</th>
-      <th>This Week</th>
-      <th>This Month</th>
-      <th>Trend</th>
+      <th>📊 Metric</th>
+      <th>📅 This Week</th>
+      <th>📆 This Month</th>
+      <th>📈 Trend</th>
     </tr>
     <tr>
       <td>💻 Code Commits</td>
-      <td>42</td>
-      <td>186</td>
+      <td><img src="https://img.shields.io/badge/-42-blue?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-186-green?style=flat-square" /></td>
       <td>📈 +15%</td>
     </tr>
     <tr>
       <td>🧠 AI Models Trained</td>
-      <td>3</td>
-      <td>12</td>
+      <td><img src="https://img.shields.io/badge/-3-orange?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-12-green?style=flat-square" /></td>
       <td>📈 +25%</td>
     </tr>
     <tr>
       <td>📚 Papers Read</td>
-      <td>8</td>
-      <td>31</td>
+      <td><img src="https://img.shields.io/badge/-8-purple?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-31-green?style=flat-square" /></td>
       <td>📈 +12%</td>
     </tr>
     <tr>
       <td>⚡ APIs Deployed</td>
-      <td>2</td>
-      <td>7</td>
+      <td><img src="https://img.shields.io/badge/-2-red?style=flat-square" /></td>
+      <td><img src="https://img.shields.io/badge/-7-green?style=flat-square" /></td>
       <td>📈 +40%</td>
     </tr>
   </table>
@@ -554,7 +573,7 @@
 <div align="center">
   <h2>💻 Code Snippet of the Day</h2>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=200&lines=from+transformers+import+pipeline;import+torch;%0Adef+create_ai_magic():;++++"""Building+tomorrow's+AI+today""";++++model+=+pipeline('text-generation',;+++++++++++++++++model='gpt-4',;+++++++++++++++++device=0+if+torch.cuda.is_available();+++++++++++++++++else+-1);++++return+model;%0Aif+__name__+=+=+'__main__':;++++magic+=+create_ai_magic();++++print('✨+AI+Magic+Activated!+✨')" alt="Daily Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&height=250&lines=from+transformers+import+pipeline;import+torch;+;def+create_ai_magic():;++++AI+magic+for+tomorrow;++++model+=+pipeline(;++++++++text-generation,;++++++++model=gpt-4,;++++++++device=0+if+torch.cuda.is_available();++++++++else+-1;++++);++++return+model;+;if+__name__+=+=+__main__:;++++magic+=+create_ai_magic();++++print(AI+Magic+Activated!)" alt="Daily Code" />
 </div>
 
 <!-- Global AI Impact Counter -->

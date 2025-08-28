@@ -69,10 +69,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=footer"/>
 </div>
 
-<!-- Neural Network Initialization -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=NEURAL.NETWORK.INIT()&fontSize=25&fontColor=00ff41&animation=blinking&stroke=ff6b6b&strokeWidth=3"/>
-</div>
+
 
 <!-- AI Consciousness Loading -->
 <div align="center" style="margin: 20px 0;">

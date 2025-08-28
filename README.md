@@ -499,8 +499,9 @@
 <div align="center">
   <h2>🏆 Quantum GitHub Achievement Matrix</h2>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Rehan018&theme=synthwave&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Organizations" alt="Quantum Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rehan018&theme=synthwave&no-frame=true&no-bg=false&margin-w=15&row=1&column=7" alt="Quantum Trophies" />
 </div>
+
 
 <!-- Quantum Language Dynamics -->
 <div align="center">

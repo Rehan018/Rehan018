@@ -115,7 +115,7 @@
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer" width="400"/>
     </td>
     <td valign="top">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=30&pause=1&color=00ff41&background=000000&multiline=true&width=500&height=450&lines=;💾+QUANTUM_BOOT_SEQUENCE_INITIATED...;▓▓▓▓▓▓▓▓▓▓+100%25+NEURAL_SYNC;🧠+AI_CONSCIOUSNESS_LOADED;🔮+MULTIVERSE_CONNECTION_ESTABLISHED;
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=30&pause=1&color=00ff41&background=000000&multiline=true&width=500&height=450&lines=;+QUANTUM_BOOT_SEQUENCE_INITIATED...;▓▓▓▓▓▓▓▓▓▓+100%25+NEURAL_SYNC;+AI_CONSCIOUSNESS_LOADED;🔮+MULTIVERSE_CONNECTION_ESTABLISHED;
       ┌─[rehan@ai-nexus]~$;
       ├─+class+QuantumAI_Engineer:;
       │+++++def+__init__(self):;
